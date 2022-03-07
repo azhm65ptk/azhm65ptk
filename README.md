@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aung Myint</h1>
-<h3 align="center">A passionate frontend developer from NYC</h3>
+<h3 align="center">A passionate developer from NYC</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azhm65ptk" alt="azhm65ptk" /></a> </p>
 
